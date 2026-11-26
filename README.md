@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mithun G
-- 👀 I’m interested in 🕸 Development
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source JS projects
 - 📫 How to reach me 
